@@ -1,0 +1,19 @@
+li a {
+  color: yellow;
+  font-size: 40px;
+}
+h1 {
+  color: #F7F7F7;
+  font-size: 40px;
+}
+body {
+    background: white url("images/back8.gif") no-repeat;
+}
+.choice {
+  color: yellow;
+  font-size: 30px;
+}
+a {
+  color: yellow;
+  font-size: 30px;
+}
